@@ -6,4 +6,4 @@ Go find out the secret word!
 
 ## Today's Secret Word
 
-Today's secret word is a secret.  You have to find it.
+Today's secret word is a _antidisestablishmentarianism_.  See if you can work it into a conversation today!
